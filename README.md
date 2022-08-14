@@ -1,3 +1,11 @@
+# MM Notes
+
+ref https://code.visualstudio.com/docs/python/environments#_create-a-conda-environment
+
+![screenshot](./Screenshot%202022-08-14%20at%2011.33.52.png)
+
+# Original project readme below
+
 [![Build Status](https://github.com/IBM/LNN/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/IBM/LNN/actions/workflows/build.yml?query=branch%3Amaster)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blueviolet)](https://github.com/IBM/LNN/blob/master/LICENSE)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/5926/badge)](https://bestpractices.coreinfrastructure.org/projects/5926)
